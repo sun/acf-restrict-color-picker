@@ -34,7 +34,7 @@ class ACF_Restrict_Color_Picker_Options {
 
 	private $plugin_path;
 	private $plugin_url;
-	private $color_settings;
+	private $settings;
 	private $theme_color_palette;
 
 	/**
